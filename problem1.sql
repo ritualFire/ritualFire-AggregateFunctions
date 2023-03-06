@@ -1,0 +1,1 @@
+Select Sum(salary) From employee;
